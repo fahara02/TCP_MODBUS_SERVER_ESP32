@@ -1,1 +1,1 @@
-# TCP_MODBUS_SERVER_ESP32 THIS PROJECT IS BASED ON THE GREAT LIBRARY FROM EMILIANOV (https://github.com/emelianov/modbus-esp8266.git)
+#  THIS PROJECT is based on the great library by EMELIANOV (https://github.com/emelianov/modbus-esp8266.git). i tried to maximum usage of almost all mosdbus functionality on a esp32 devkit . it works great.
