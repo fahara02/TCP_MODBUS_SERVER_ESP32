@@ -1,1 +1,1 @@
-#  THIS PROJECT is based on the great library by EMELIANOV (https://github.com/emelianov/modbus-esp8266.git). i tried to do maximum usage of almost all mosdbus functionality on a esp32 devkit i.e digital input ,digital output, analog inputs, analog outputs etc etc . it works great .
+#  THIS PROJECT is based on the great library by EMELIANOV (https://github.com/emelianov/modbus-esp8266.git). i tried to do maximum usage of almost all modbus functionality on a esp32 devkit i.e digital input ,digital output, analog inputs, analog outputs etc etc . it works great .
